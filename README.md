@@ -1,4 +1,4 @@
-# ForbiddenIsland
+# Forbidden Island
 
 A game where the player attempts to collect the helicopter pieces scattered around the gradually sinking island and get away in the helicopter before they drown. 
 
